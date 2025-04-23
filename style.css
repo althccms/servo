@@ -1,0 +1,53 @@
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+    }
+    h2 {
+      text-align: center;
+      color: #333;
+    }
+    h3 {
+      text-align: center;
+      color: #555;
+      margin-top: 5px; /* Add some space above the h3 */
+    }
+    #scheduleForm {
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      max-width: 400px;
+      margin: 0 auto;
+    }
+    div {
+      margin-bottom: 15px;
+    }
+    label {
+      display: block;
+      margin-bottom: 5px;
+      color: #555;
+    }
+    input[type="number"] {
+      width: 40px;
+      padding: 5px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      margin-right: 5px;
+    }
+    button {
+      background-color: #138d75; /* Updated color */
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      border-radius: 5px;
+      cursor: pointer;
+      width: 100%;
+      font-size: 16px;
+    }
+    button:hover {
+      background-color: #0e6b5c; /* Darker shade for hover effect */
+    }
+  </style>
